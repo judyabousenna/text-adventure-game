@@ -61,4 +61,4 @@ python text_adventure_game.py
 
 Why This Matters?
 
-This project was part of my learning journey in the DECI Nanodegree program (IBM x Udacity). It reflects my passion for creating, problem solving, and using storytelling to build systems that engage and challenge.
+This project was part of my learning journey in the DECI Nanodegree program (Udacity). It reflects my passion for creating, problem solving, and using storytelling to build systems that engage and challenge.
